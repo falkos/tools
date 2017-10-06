@@ -7,7 +7,6 @@
 #
 # This Script will download the Config of a Pfsense Firewall. 
 # If the new Config different the old one will replaced. 
-#
 # 
 # Exit-Code 1 means something is wrong
 #
