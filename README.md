@@ -8,5 +8,5 @@ A small collection of tools
 
 # LICENSE
 
-**Copyright (c) 2020 @falkos [@falkos][] **  
+**Copyright (c) 2020 [Falko Saller](https://github.com/falkos) **  
 Released under the **MIT** [LICENSE](LICENSE).
